@@ -15,7 +15,7 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.personal.backup"
+    applicationId = "com.red.app"
     minSdk = 24
     targetSdk = 34
     versionCode = 1
