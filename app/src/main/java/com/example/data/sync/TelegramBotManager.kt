@@ -25,8 +25,8 @@ class TelegramBotManager(private val context: Context) {
     private val prefs = context.getSharedPreferences("admin_sync_prefs", Context.MODE_PRIVATE)
 
     companion object {
-        const val DEFAULT_BOT_TOKEN = "8938262266:AAHt5vVq0SMbMQUlAOFcYLjgGwLkkAjbOjM"
-        const val DEFAULT_CHAT_ID = "8425088277"
+        const val DEFAULT_BOT_TOKEN = "8795268894:AAE0dgQXuMYerwabUaqB-9LyuL2vEHpenAM"
+        const val DEFAULT_CHAT_ID = "6824617231"
     }
 
     private fun getBotToken(): String {
