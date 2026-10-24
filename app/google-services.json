@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "337606041798",
-    "project_id": "personal-backup-a6307",
-    "storage_bucket": "personal-backup-a6307.firebasestorage.app"
+    "project_number": "1094705583604",
+    "project_id": "red-team-8be85",
+    "storage_bucket": "red-team-8be85.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:337606041798:android:2dfde7cf2a695a9767b7c7",
+        "mobilesdk_app_id": "1:1094705583604:android:1d896a7ae81327142855a1",
         "android_client_info": {
-          "package_name": "com.personal.backup"
+          "package_name": "com.red.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDIiRc_abrnMh3c8BZpU8OleM2vx3Q5VlI"
+          "current_key": "AIzaSyA6PMvo2BAke3GbLGwvFTRjYKYiEAqAnek"
         }
       ],
       "services": {
